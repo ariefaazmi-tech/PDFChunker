@@ -1,4 +1,5 @@
 matplotlib
 nltk
 PdfReader
+PyPDF2
 
